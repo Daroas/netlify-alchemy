@@ -9,7 +9,7 @@ export default function InstructionsComponent() {
 					create<span>-DAVID ALMEIDA</span>
 				</h1>
 				<p>
-					Get started by editing this page in{" "}
+					AQUI PARA EDITAR PAGINA{" "}
 					<span>/pages/index.js</span>
 				</p>
 			</header>
