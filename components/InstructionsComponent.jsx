@@ -16,7 +16,7 @@ export default function InstructionsComponent() {
 
 			
 			
-		<img src="netlify-alchemy/public/desktop_1280x800_PNG.png" width={"1280px"} height={"800px"} />
+		<img src="netlify-alchemy/public/desktop_1280x800_PNG.png">
 		
 					
 			
