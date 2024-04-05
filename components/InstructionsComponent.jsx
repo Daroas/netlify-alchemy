@@ -6,7 +6,8 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					Criado e editado por <span> DAVID ALMEIDA</span>
+					Criado e editado por 
+<span> DAVID ALMEIDA</span>
 				</h1>
 				<p>
 					AQUI PARA EDITAR PAGINA{" "}
