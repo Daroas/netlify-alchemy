@@ -15,10 +15,10 @@ export default function InstructionsComponent() {
 			</header>
 
 			
-			<div className={styles.button}>
-					{/* <img src="netlify-alchemy/public/desktop_1280x800_PNG.png" width={"1280px"} height={"800px"} /> */}
+			
+		<img src="netlify-alchemy/public/desktop_1280x800_PNG.png" width={"1280px"} height={"800px"} />
 		
-					</div>
+					
 			
 			<div className={styles.footer}>
 				<a href="https://alchemy.com/?a=create-web3-dapp" target={"_blank"}>
