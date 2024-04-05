@@ -6,7 +6,7 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					create<span>-DAVID ALMEIDA</span>
+					Criado e editado por:<span>-DAVID ALMEIDA</span>
 				</h1>
 				<p>
 					AQUI PARA EDITAR PAGINA{" "}
@@ -59,18 +59,26 @@ export default function InstructionsComponent() {
 				<div className={styles.icons_container}>
 					<div>
 						<a
-							href="https://github.com/alchemyplatform/create-web3-dapp"
+							href="https://www.facebook.com/ligceluba/"
 							target={"_blank"}
 						>
-							Leave a star on Github
+							Estamos no Facebook
 						</a>
 					</div>
 					<div>
 						<a
-							href="https://twitter.com/AlchemyPlatform"
+							href="https://https://www.instagram.com/ligcel/"
 							target={"_blank"}
 						>
-							Follow us on Twitter
+							Siga no instagram
+						</a>
+					</div>
+					<div>
+						<a
+							href="https://https://whats.link/ligcel"
+							target={"_blank"}
+						>
+							Entre em contato pelo Whatsapp
 						</a>
 					</div>
 				</div>
