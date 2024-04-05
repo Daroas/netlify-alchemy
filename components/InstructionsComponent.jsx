@@ -17,7 +17,7 @@ export default function InstructionsComponent() {
 
 			
 			
-		<img src="https://raw.githubusercontent.com/Daroas/netlify-alchemy/main/public/desktop_1280x800_PNG.png"> 
+		<img src="https://raw.githubusercontent.com/Daroas/netlify-alchemy/main/public/desktop_1280x800_PNG.png"> alt="LIGCEL">
 		
 					
 			
